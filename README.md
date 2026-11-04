@@ -8,9 +8,6 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/Angel-p-v.png" width="160" alt="Avatar" />
-    </td>
     <td>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
