@@ -224,25 +224,10 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-p-v&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-p-v&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
-## 🏆 Actividad y Racha
+## 🏆 Racha de contribuciones
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-p-v&theme=dark&hide_border=true" alt="Racha de contribuciones" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Angel-p-v&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
-</p>
-
-<p align="center">
-  <i>Los servicios externos pueden tardar unos segundos en cargar o estar temporalmente fuera de servicio.</i>
 </p>
 
 ---
