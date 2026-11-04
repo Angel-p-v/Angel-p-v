@@ -233,12 +233,16 @@
 
 ---
 
-## 🏆 Widgets
+## 🏆 Actividad y Racha
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-p-v&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-p-v&theme=dark&hide_border=true" alt="Racha de contribuciones" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel-p-v&theme=darkhub&row=1&column=5" alt="Trophy Case" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-p-v&theme=react-dark&hide_border=true" alt="Actividad reciente" />
+  <img src="https://komarev.com/ghpvc/?username=Angel-p-v&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </p>
+
+<p align="center">
+  <i>Los servicios externos pueden tardar unos segundos en cargar o estar temporalmente fuera de servicio.</i>
+</p>
+
+---
